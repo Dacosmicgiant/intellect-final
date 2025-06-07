@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655839747415",
+    "project_id": "intellect-cosmic",
+    "storage_bucket": "intellect-cosmic.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655839747415:android:10d464fb4eb147135cf212",
+        "android_client_info": {
+          "package_name": "com.thecosmicgiant.trainer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD02Wa9kdkXqds_BCNxHBlFXe_9aOiQt14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
